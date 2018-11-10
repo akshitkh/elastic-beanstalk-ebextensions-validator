@@ -1,5 +1,7 @@
 <h1> AWS ELastic Beanstalk </h1>
+
 **EBExtensions Option Settings Validator** 
+
 ########################### Akhit Khanna #########################
 ########################## AWS 2016 ##############################
 
