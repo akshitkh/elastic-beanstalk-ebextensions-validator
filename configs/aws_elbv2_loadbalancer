@@ -1,0 +1,6 @@
+AccessLogsS3Bucket|string
+AccessLogsS3Enabled|true,false
+AccessLogsS3Prefix|string
+SecurityGroups|string
+ManagedSecurityGroup|string
+IdleTimeout|1-3600

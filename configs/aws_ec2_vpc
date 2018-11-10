@@ -1,0 +1,6 @@
+VPCId|string
+Subnets|string
+ELBSubnets|string
+ELBScheme|internal, 
+DBSubnets|string
+AssociatePublicIpAddress|true,false,null

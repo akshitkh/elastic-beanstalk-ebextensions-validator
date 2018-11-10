@@ -1,0 +1,9 @@
+DBAllocatedStorage|string
+DBDeletionPolicy|Delete,Snapshot
+DBEngine|mysql,oracle-se1,oracle-se,oracle-ee,sqlserver-ee,sqlserver-ex,sqlserver-web,sqlserver-se,postgres
+DBEngineVersion|string
+DBInstanceClass|string
+DBPassword|string
+DBSnapshotIdentifier|string
+DBUser|string
+MultiAZDatabase|true,false 

@@ -1,0 +1,6 @@
+DefaultProcess|string
+ListenerEnabled|true,false
+Protocol|HTTP,HTTPS,TCP
+Rules|string
+SSLCertificateArns|string
+SSLPolicy|string

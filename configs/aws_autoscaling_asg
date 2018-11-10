@@ -1,0 +1,5 @@
+Availability Zones|string
+Cooldown|0-10000
+Custom Availability Zones|us-east-1a,us-east-1b,us-east-1c,us-east-1d,us-east-1e,eu-central-1
+MinSize|1-10000
+MaxSize|1-10000

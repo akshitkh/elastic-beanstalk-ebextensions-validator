@@ -1,0 +1,6 @@
+ListenerProtocol|HTTP,HTTPS,TCP,SSL
+InstancePort|1-65535
+InstanceProtocol|HTTP,HTTPS,TCP,SSL
+PolicyNames|string
+SSLCertificateId|string
+ListenerEnabled|true,false

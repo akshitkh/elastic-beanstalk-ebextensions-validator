@@ -1,0 +1,9 @@
+BreachDuration|1-600
+LowerBreachScaleIncrement|1-99999
+LowerThreshold|0-20000000
+MeasureName|CPUUtilization,NetworkIn,NetworkOut,DiskWriteOps,DiskReadBytes,DiskReadOps,DiskWriteBytes,Latency,RequestCount,HealthyHostCount,UnhealthyHostCount
+Period|0-999
+Statistic|Minimum,Maximum,Sum,Average
+Unit|Seconds,Percent,Bytes,Bits,Count,Bytes/Second,Bits/Second,Count/Second,None
+UpperBreachScaleIncrement|1-99999
+UpperThreshold|0-20000000

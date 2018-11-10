@@ -1,0 +1,5 @@
+DeregistrationDelay|0-3600
+HealthCheckInterval|/////Has TO BE FIXED
+HealthCheckPath|string
+HealthCheckTimeout|1-60
+HealthyThresholdCount|2-10

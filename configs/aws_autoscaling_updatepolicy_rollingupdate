@@ -1,0 +1,6 @@
+MaxBatchSize|1-10000
+MinInstancesInService|0-9999
+RollingUpdateEnabled|true,false
+RollingUpdateType|Time,Health,Immutable
+PauseTime|string
+Timeout|string

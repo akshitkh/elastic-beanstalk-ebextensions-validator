@@ -1,0 +1,8 @@
+CrossZone|true,false
+SecurityGroups|string
+ManagedSecurityGroup|string
+LoadBalancerHTTPPort|OFF,80
+LoadBalancerPortProtocol|HTTP,TCP
+LoadBalancerHTTPSPort|OFF,443,8443
+LoadBalancerSSLPortProtocol|HTTPS,SSL
+SSLCertificateId|string

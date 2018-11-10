@@ -1,0 +1,7 @@
+DesiredCapacity|1-10000
+EndTime|string
+MaxSize|0-10000
+MinSize|0-10000
+Recurrence|string
+StartTime|string
+Suspend|True,False 

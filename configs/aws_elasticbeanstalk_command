@@ -1,0 +1,6 @@
+DeploymentPolicy|AllAtOnce,Rolling,RollingWithAdditionalBatch,Immutable
+Timeout|"1"-"3600"
+BatchSizeType|Percentage,Fixed
+BatchSize|1-100
+IgnoreHealthCheck|true,false
+HealthCheckSuccessThreshold|Ok,Warning,Degraded,Severe

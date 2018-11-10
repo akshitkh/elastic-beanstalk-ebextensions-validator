@@ -1,0 +1,10 @@
+WorkerQueueURL|string
+HttpPath|string
+MimeType|application/json,application/x-www-form-urlencoded,application/xml,text/plain,custom
+HttpConnections|1-100
+ConnectTimeout|1-60
+InactivityTimeout|1-1800
+VisibilityTimeout|0-43200
+RetentionPeriod|60-1209600
+MaxRetries|1-100
+ErrorVisibilityTimeout|0-43200

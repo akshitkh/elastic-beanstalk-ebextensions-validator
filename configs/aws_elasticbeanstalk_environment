@@ -1,0 +1,2 @@
+EnvironmentType|SingleInstance,LoadBalanced
+ServiceRole|string

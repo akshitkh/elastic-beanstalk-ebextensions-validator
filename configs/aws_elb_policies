@@ -1,0 +1,6 @@
+ConnectionDrainingEnabled|true,false
+ConnectionDrainingTimeout|1-3600
+ConnectionSettingIdleTimeout|1-3600
+LoadBalancerPorts|string
+Stickiness Cookie Expiration|0-1000000
+Stickiness Policy|true,false

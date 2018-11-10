@@ -1,0 +1,11 @@
+EC2KeyName|string
+IamInstanceProfile|string
+ImageId|string
+InstanceType|string
+MonitoringInterval|1\5
+SecurityGroups|string
+SSHSourceRestriction|string
+BlockDeviceMappings|string
+RootVolumeType|standard,gp2,io1
+RootVolumeSize|10-16384
+RootVolumeIOPS|100-20000

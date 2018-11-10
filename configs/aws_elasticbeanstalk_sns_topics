@@ -1,0 +1,4 @@
+Notification Endpoint|string
+Notification Protocol|http,https,email,email-json,sqs
+Notification Topic ARN|string
+Notification Topic Name|string

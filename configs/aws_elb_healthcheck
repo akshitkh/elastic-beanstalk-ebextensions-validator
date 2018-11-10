@@ -1,0 +1,4 @@
+HealthyThreshold|2-10
+Interval|5-300
+Timeout|2-60
+UnhealthyThreshold|2-10
