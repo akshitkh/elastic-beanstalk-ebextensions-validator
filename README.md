@@ -1,4 +1,4 @@
-<h1> AWS ELastic Beanstalk </h1>
+<h1> AWS Elastic Beanstalk </h1>
 
 **EBExtensions Option Settings Validator** 
 
