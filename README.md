@@ -39,6 +39,8 @@ option_settings:
 
 -- aws:elb:policies:policy_name has not been implemented yet.
 
+-- aws:elasticbeanstalk:environment:process:default -> HealthCheckInterval has 2 sets of thresholds for ALB and NLB. Only the wider set has been implemented yet. 
+
 -- Options like "InstanceType" might be considered valid if they are entered as any string. Will update this later to allow only valid values.
 
 -- Files under the "config" directory can be modified to add/delete/update option settings. 
